@@ -9,12 +9,15 @@
 ## 📖 About the Project
 
 **Problem:**  
+
 Seneca students, particularly commuters, face significant barriers to engagement due to fragmented communication channels (email, posters, social media) and the social anxiety of attending events alone.
 
 **Solution:**  
+
 StudentConnect aggregates all campus events into a single, searchable interface. It addresses the "awareness gap" by allowing students to filter events by their academic program (e.g., CPA, BSD) and personal interests. Simultaneously, it addresses the "connection gap" by providing real-time visibility into which peers are attending, fostering a sense of community before the event even starts.
 
 ### Key Features
+
 *   **Centralized Event Catalog:** A single source of truth for all Academic, Social, and Wellness events.
 *   **Smart Filtering:** Personalized recommendations based on Program (CPA/BSD) and Interests.
 *   **Social Connectivity:** View peer RSVPs to see who else is attending.
