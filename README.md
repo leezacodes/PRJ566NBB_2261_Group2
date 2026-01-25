@@ -28,7 +28,7 @@ StudentConnect aggregates all campus events into a single, searchable interface.
 | :--- | :--- |
 | **Oyku Cabuk** | Project Manager |
 | **Mustafa Omar** | Backend Lead |
-| **Kashish Verma** | Database Administrator / Data Analyst |
+| **Kashish Verma** | Database Administrator |
 | **Aleeza Ahmad** | Frontend Developer / UI Designer |
 | **Berfu Emre** | QA Tester / Documentation Specialist |
 
