@@ -1,7 +1,8 @@
 # StudentConnect 🎓
 ### Your Gateway to Campus Events and Community
 
-**StudentConnect** is a centralized web-based platform designed specifically for Seneca College students. It bridges the gap between event discovery and social connection, ensuring students never have to attend campus activities alone.
+
+**StudentConnect** is centralized web-based platform designed specifically for Seneca College students. It bridges the gap between event discovery and social connection, ensuring students never have to attend campus activities alone.
 
 ---
 
